@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "Serial Reader",
+			"path": ".."
+		},
+		{
+			"name": "jSerialComm",
+			"path": "../../../../../../Downloads/jSerialComm-master/jSerialComm-master/src/main/java/com/fazecast/jSerialComm"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
