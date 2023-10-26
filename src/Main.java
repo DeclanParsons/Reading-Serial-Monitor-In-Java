@@ -3,7 +3,7 @@ import java.io.InputStream;
 import com.fazecast.jSerialComm.SerialPort;
 
 
-class Main{ 
+public class Main{ 
 
     public static void main(String args[]){ 
 
@@ -13,7 +13,7 @@ class Main{
 
 
     static void get_ports(){ 
-
+        
         SerialPort[] ports = SerialPort.getCommPorts(); 
         SerialPort single_port = ports[0]; 
 
